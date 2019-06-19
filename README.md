@@ -1,1 +1,1 @@
-# Finished codecademy intensive project: "Tea Cozy"
+# Finished codecademy intensive "Build Websites from Scratch" project: "Tea Cozy"
